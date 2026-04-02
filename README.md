@@ -41,6 +41,7 @@ Weather Check is a web-based application that retrieves and displays current wea
 
 # File Structure
 WeatherJS/
+
 ├── index.html        # Main HTML file
 
 ├── app.js            # Entry point, initializes UI and API calls
